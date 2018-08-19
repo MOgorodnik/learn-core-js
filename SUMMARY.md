@@ -6,4 +6,6 @@
 
 ## Methods
 
+* [test](methods/test.md)
 * [Defining Methods](methods.md)
+
